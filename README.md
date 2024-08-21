@@ -13,8 +13,10 @@ Software engineering plays a crucial role in the technology industry by enabling
 
 The Birth of High-Level Programming Languages (1950s-1960s)
 The introduction of high-level programming languages like Fortran, COBOL, and LISP in the 1950s and 1960s revolutionized software development. These languages made coding more accessible by abstracting away low-level machine instructions. Compilers and interpreters were developed to translate high-level code into machine code, simplifying the coding process
+
 The Agile Manifesto (2001)
 The Agile Manifesto, published in 2001, marked a significant shift in software development methodologies. Agile methods emphasize iterative development, close collaboration with customers, and flexibility in responding to changing requirements. This approach contrasted with the more rigid, plan-driven methodologies that were prevalent at the time
+
 The Rise of DevOps (2000s-2010s)
 DevOps, a set of practices that combine software development (Dev) and IT operations (Ops), emerged in the 2000s and gained widespread adoption in the 2010s. DevOps emphasizes collaboration, automation, and continuous delivery, with the goal of improving the speed and quality of software delivery.
 These milestones have shaped the evolution of software engineering from a craft to a more formalized and structured discipline, with a focus on improving the quality, productivity, and predictability of software development.
@@ -22,19 +24,26 @@ These milestones have shaped the evolution of software engineering from a craft 
 3. List and briefly explain the phases of the Software Development Life Cycle.
    
 The Software Development Life Cycle (SDLC) consists of seven distinct phases that guide the development process from initial concept to deployment and maintenance. Here’s a brief overview of each phase:
-1. Planning
+
+Planning
 In this initial stage, the project's objectives and scope are defined. This involves identifying the problems that the software aims to solve and assessing the feasibility of the project. Key activities include gathering requirements, estimating costs, and setting timelines. This phase is crucial for aligning the project with business goals and securing necessary resources.
-2. Analysis
+
+Analysis
 During the analysis phase, detailed requirements are gathered to create a Software Requirement Specification (SRS) document. This document outlines the functional and non-functional requirements of the software. Developers analyze user needs and evaluate existing solutions to ensure that the new system meets its intended goals.
-3. Design
+
+Design
 The design phase involves creating the architecture of the software. This includes defining user interfaces, system interfaces, databases, and security protocols. Prototyping is often part of this stage, allowing stakeholders to visualize the application and provide feedback before actual development begins.
-4. Development
+
+Development
 In the development phase, the actual coding of the software takes place. Developers work based on the specifications outlined in the previous phases to build the software. This phase may involve multiple team members collaborating on different components of the project.
-5. Testing
+
+Testing
 Once the software is developed, it undergoes rigorous testing to identify and fix bugs or issues. This phase ensures that the software functions as intended and meets the requirements set forth in the analysis phase. Various testing methods, including unit testing, integration testing, and user acceptance testing, are employed.
-6. Implementation
+
+Implementation
 In the implementation phase, the software is deployed to a production environment. This involves integrating the software with existing systems and training users. The goal is to ensure a smooth transition from development to operational use, addressing any issues that arise during deployment.
-7. Maintenance
+
+Maintenance
 The final phase involves ongoing support and maintenance of the software. This includes fixing any post-deployment issues, making updates, and adding new features as necessary. Maintenance is crucial for ensuring the software remains functional and relevant over time.
 These phases provide a structured approach to software development, helping teams manage complexity and deliver high-quality software efficiently.
 
@@ -96,7 +105,7 @@ Risk Management: Project Managers identify potential risks and develop mitigatio
 
 In summary, the collaboration among Software Developers, Quality Assurance Engineers, and Project Managers is essential for delivering high-quality software products that meet user needs and business objectives. Each role has distinct responsibilities that contribute to the overall success of the software development lifecycle.
 
-0. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+6. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 Integrated Development Environments (IDEs) and Version Control Systems (VCS) are essential components of modern software development, enhancing efficiency, collaboration, and code quality.
 
